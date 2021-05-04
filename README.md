@@ -1,5 +1,6 @@
 # demo18-lyricsDownloader-Netease
-
+[![Github](https://img.shields.io/badge/Github-https%3A%2F%2Fgithub.com%2FZichen3317%2Fdemo18--lyrics--downloader--netease-green)](https://github.com/Zichen3317/demo18-lyrics-downloader-netease)
+[![Vision](https://img.shields.io/badge/Release-Ver0.1.6-blue)]()
 #### 介绍
 lyricsDownloader-Netease 是一个下载歌词的小脚本  
 脚本所用API通过Vercel托管，感谢Bingaryify大佬的教程！  
