@@ -9,7 +9,7 @@ lyricsDownloader 是一个下载歌词的小脚本
 所用API通过Vercel托管，感谢Bingaryify大佬的教程！  
 [这是所参考的大佬的github项目](https://github.com/Binaryify/NeteaseCloudMusicApi)  
 [大佬的API文档](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
-2.  **新增** 支持通过QQ音乐分享链接直接下载单曲的歌词
+2.  **新增** 支持通过QQ音乐分享链接直接下载单曲的歌词  
 所用获取歌词API系 **QQ音乐官方API**,其他歌曲信息如歌曲名和歌手名通过自制爬虫获取
 
 #### 🔧报错说明
