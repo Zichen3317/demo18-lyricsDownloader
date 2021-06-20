@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/badge/Github-https%3A%2F%2Fgithub.com%2FZichen3317%2Fdemo18--lyrics--downloader--netease-green)](https://github.com/Zichen3317/demo18-lyrics-downloader-netease)
 [![Version](https://img.shields.io/badge/Version-0.2.0-blue)]()
 #### 介绍
-lyricsDownloade 是一个下载歌词的小脚本    
+lyricsDownloader 是一个下载歌词的小脚本    
 
 #### 功能
 1. 支持通过网易云音乐分享链接直接下载单曲/歌单歌曲（非专辑，专辑歌曲下载未实装）的歌词  
